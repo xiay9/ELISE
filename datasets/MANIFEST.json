@@ -1,0 +1,105 @@
+{
+  "version": 1,
+  "files": [
+    {
+      "path": "datasets/ECF/dataset/train.txt",
+      "bytes": 1184881,
+      "sha256": "f11c3a699ce28e1dbfed9424680f9d912a03e1b669299285406bdf139e603d37"
+    },
+    {
+      "path": "datasets/MECAD/train_data_pair.json",
+      "bytes": 4683802,
+      "sha256": "cfb0f25f7fccdac1b1e7bb4d7b2c51f15cf90734841d3c2831e2d8cbfb528e38"
+    },
+    {
+      "path": "datasets/ECF/dataset/valid.txt",
+      "bytes": 129868,
+      "sha256": "e86b68a9f225d4b2cbe2213d33925cd67a8e884376c83bdf8c99fa2d75706917"
+    },
+    {
+      "path": "datasets/MECAD/valid_data_pair.json",
+      "bytes": 759364,
+      "sha256": "c655f67d9973e83ef6d066c3cfd0e3ac2e2bcf017a946507e8b778ef9cfc4a52"
+    },
+    {
+      "path": "datasets/ECF/dataset/test.txt",
+      "bytes": 308746,
+      "sha256": "01f4078d9b81421fef45b575574785b14b637873a0bc0df6a964ad7ee428ddd0"
+    },
+    {
+      "path": "datasets/MECAD/test_data_pair.json",
+      "bytes": 1115760,
+      "sha256": "7ef9acbad61feb2aba5e5da7016e898e9b29cb7d28054da822a8f46331f1b242"
+    },
+    {
+      "path": "datasets/ECF/ecf_raw_to_doc_id.json",
+      "bytes": 177,
+      "sha256": "a1081b479cb92fe3030e32cd3b8625c452bd2020ab1cfbc6033d5d75c1160f96"
+    },
+    {
+      "path": "datasets/ECF/cache/audio_features_train.pt",
+      "bytes": 45894733,
+      "sha256": "c1ad4f3fe4907beef11199d8e83dfaea78ebe01d33c2836a67950ce14c5a95eb"
+    },
+    {
+      "path": "datasets/ECF/cache/audio_features_valid.pt",
+      "bytes": 5050829,
+      "sha256": "d9b8b05393433850e548f55a0bbce2721616aff140c021ba63043987bf4e7246"
+    },
+    {
+      "path": "datasets/ECF/cache/audio_features_test.pt",
+      "bytes": 11838023,
+      "sha256": "443bd823fcd12424434f3dbf027263dbaad4a989daf7ec9bfde56acff33594c4"
+    },
+    {
+      "path": "datasets/ECF/cache/video_features_train.pt",
+      "bytes": 43495437,
+      "sha256": "9fb2dc78e3c80f13581f3835950ea325b44c54595f38570846b644ba2e48f43d"
+    },
+    {
+      "path": "datasets/ECF/cache/video_features_valid.pt",
+      "bytes": 4754317,
+      "sha256": "eb194b99c5636a7fdcb69607926d852dc110704594deab26f6f21c5c47e09182"
+    },
+    {
+      "path": "datasets/ECF/cache/video_features_test.pt",
+      "bytes": 11206215,
+      "sha256": "da3dad0eb89d40ab89450ff705c8721dc0b54426a1f6441c46eabf7360d9ebc4"
+    },
+    {
+      "path": "datasets/MECAD/mecad_raw_to_doc_id.json",
+      "bytes": 32918,
+      "sha256": "f6931d618871db7d808c4b895fe2c3476f94ab18205c34bbe4e685a3959174dd"
+    },
+    {
+      "path": "datasets/MECAD/cache/audio_features_train.pt",
+      "bytes": 35282235,
+      "sha256": "b3c6d770b7323633848d2d0a9a06441706dcb04cc4bc51ea8b2926080eb27bc3"
+    },
+    {
+      "path": "datasets/MECAD/cache/audio_features_valid.pt",
+      "bytes": 5484539,
+      "sha256": "5ef7d9bec53e4464647d97ddbd307da40f9ad29d652dfef9a2b1460fd100fe1e"
+    },
+    {
+      "path": "datasets/MECAD/cache/audio_features_test.pt",
+      "bytes": 8606133,
+      "sha256": "827c8515cdc711735a4db5263f2ce8ab9e651c1b83f2d17d75cf46c97dba15f1"
+    },
+    {
+      "path": "datasets/MECAD/cache/video_features_train.pt",
+      "bytes": 32841229,
+      "sha256": "099424d49ce39965143933a6c5c8b03cef65d1952f3178f779d68c801a34098a"
+    },
+    {
+      "path": "datasets/MECAD/cache/video_features_valid.pt",
+      "bytes": 5101389,
+      "sha256": "e1e248e73b9be780ea8f72ee440ff77887db665ffea484e0739fb266aebd9a77"
+    },
+    {
+      "path": "datasets/MECAD/cache/video_features_test.pt",
+      "bytes": 8001607,
+      "sha256": "8704f0584a4208134cb803d8a0f42df91c47d3a52bdcb017f103a9f85399fa25"
+    }
+  ]
+}

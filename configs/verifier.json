@@ -1,0 +1,15 @@
+{
+  "model": "Qwen/Qwen3.6-27B",
+  "revision": "6a9e13bd6fc8f0983b9b99948120bc37f49c13e9",
+  "vllm": "0.19.1",
+  "transformers": "5.7.0",
+  "temperature": 0.0,
+  "top_p": 1.0,
+  "max_tokens": 128,
+  "max_model_len": 2048,
+  "batch_size": 64,
+  "max_num_seqs": 64,
+  "seed": 42,
+  "enable_thinking": false,
+  "structured_output_schema": "compact_verification"
+}
